@@ -2,6 +2,8 @@
 
 Dear PC Chairs,
 
+Paper information: Paper #235 "A Novel Secure Fault-Tolerant Sensor Fusion using Interval Intersection"
+
 I first would like to give many thinks for the reviewers’ efforts and commends.  However, I still want to provide an appeal to the PC Chairs and provide the disagreement. 
 
 1.	The reviewers did not catch the main contribution of our paper. Also, the reviewers were not familiar with our topic, since both reviewers had only ‘some familiarity’.
