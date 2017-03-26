@@ -4,7 +4,7 @@ Dear PC Chairs,
 
 Paper information: Paper #235 "A Novel Secure Fault-Tolerant Sensor Fusion using Interval Intersection"
 
-I first would like to give many thinks for the reviewers’ efforts and commends.  However, I still want to provide an appeal to the PC Chairs and provide the disagreement. 
+We first would like to give many thinks for the reviewers’ efforts and commends.  However, we still want to provide an appeal to the PC Chairs and provide the disagreement. 
 
 1.	The reviewers did not catch the main contribution of our paper. Also, the reviewers were not familiar with our topic, since both reviewers had only ‘some familiarity’.
 2.	The main contribution of our paper is that it provides a method for security in a Fault-Tolerant Sensor fusion system. This is the first work to combine security and the Fault-Tolerant Sensor Fusion System. The first thing we should know, Security is very different from Reliability and Trustworthiness, etc.  Another major contribution is that our method uses a secure machine learning-based (linear-regression model) method to evaluate the evaluation processes which can yield a more accurate result, also keeping all the information secure. 
